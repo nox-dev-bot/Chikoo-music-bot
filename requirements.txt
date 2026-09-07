@@ -3,5 +3,6 @@ TgCrypto>=1.2.5
 aiohttp>=3.9.0
 py-yt-search>=0.8.0
 python-dotenv>=1.0.1
-py-tgcalls>=2.2.8
 pymongo>=4.13.0
+py-tgcalls==2.3.3
+telethon>=1.44.0,<2.0.0
