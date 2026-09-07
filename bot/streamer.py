@@ -6,6 +6,9 @@ if not hasattr(pyrogram.errors, "GroupcallForbidden"):
 
     pyrogram.errors.GroupcallForbidden = GroupcallForbidden
 
+if not hasattr(pyrogram.errors, "GroupcallInvalid"):
+    pyrogram.errors.GroupcallInvalid = pyrogram.errors.GroupCallInvalid
+
 from pyrogram import Client
 from pytgcalls import PyTgCalls
 from pytgcalls.types import MediaStream
