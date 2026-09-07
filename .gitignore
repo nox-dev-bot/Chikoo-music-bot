@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+*.session
+*.session-journal
+data/*.db
+data/*.db-shm
+data/*.db-wal
+.DS_Store

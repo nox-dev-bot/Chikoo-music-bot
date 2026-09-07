@@ -1,0 +1,8 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+The supplied YouTube helper contained a GPL v3 notice. Its attribution is preserved in
+bot/youtube.py and the original supplied source is retained as
+bot/youtube_original_user_supplied.py.
+
+https://www.gnu.org/licenses/gpl-3.0.txt

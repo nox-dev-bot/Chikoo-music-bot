@@ -1,0 +1,7 @@
+pyrogram>=2.0.106
+TgCrypto>=1.2.5
+aiohttp>=3.9.0
+py-yt>=0.5.0
+python-dotenv>=1.0.1
+py-tgcalls>=2.2.8
+pymongo>=4.13.0
