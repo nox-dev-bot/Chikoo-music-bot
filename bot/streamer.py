@@ -1,5 +1,6 @@
 from pyrogram import Client
-from pytgcalls import PyTgCalls, MediaStream
+from pytgcalls import PyTgCalls
+from pytgcalls.types import MediaStream
 from pytgcalls.types import AudioQuality, VideoQuality
 
 from .config import CFG
